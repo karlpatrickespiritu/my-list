@@ -17,3 +17,7 @@ Languages
 	- Frameworks
 		- AngularJs
 			- [“Thinking in AngularJS” if I have a jQuery background](http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background)
+
+Attitude
+--------
+- [The Ten Rules of a Zen Programmer](http://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
