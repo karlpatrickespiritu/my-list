@@ -1,6 +1,6 @@
 # my-list
 
-### list of great topics i've run into.
+### List of great topics i've run into.
 
 It's kind of late for creating this repo since since i've been a developer for about 2 years now, 
 and I've read a lot of great topics in in the past years. But as they say, better to be late than never! =)
