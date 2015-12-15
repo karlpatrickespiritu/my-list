@@ -2,8 +2,6 @@
 
 ### Lists of good reads I've run into.
 
-> ### **Disclaimer**
->
 > This repo is intented for my personal reference. But, you might find some topics worth reading, so please do =)
 
 Programming
