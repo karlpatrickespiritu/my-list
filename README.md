@@ -11,7 +11,7 @@
     - [The Ten Rules of a Zen Programmer](http://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html)
 - Languages
     - [PHP](https://github.com/karlpatrickespiritu/my-list/tree/master/programming/php)
-    - [JavaScript](https://github.com/karlpatrickespiritu/my-list/tree/master/programming/php)
+    - [JavaScript](https://github.com/karlpatrickespiritu/my-list/tree/master/programming/javascript)
 - Open Source
     - [Sustainable Open Source](http://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
