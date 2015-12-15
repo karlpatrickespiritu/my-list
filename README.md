@@ -2,11 +2,11 @@
 
 ### list of great topics i've run into.
 
+<<<<<<< HEAD
 It's kind of late for creating this repo since since i've been a developer for about 2 years now, 
 and I've read a lot of great topics in in the past years. But as they say, better to be late than never! =)
 
 > **Disclaimer**: This repo is intented for my personal reference. But, you might find some topics worth reading, so please do =)
-
 
 PHP
 --------
