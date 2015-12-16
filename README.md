@@ -9,6 +9,8 @@ and I've read a lot of great topics in in the past years. But as they say, bette
 
 PHP
 --------
+- OOP Concepts
+	- [When to Use Static Methods](http://verraes.net/2014/06/when-to-use-static-methods-in-php/)
 - Exceptions
 	- [How to Design Exception Hierarchies](http://blogs.msdn.com/b/kcwalina/archive/2007/01/30/exceptionhierarchies.aspx)
 	- [What Exception subclasses are built into PHP?](http://stackoverflow.com/questions/10838257/what-exception-subclasses-are-built-into-php)
