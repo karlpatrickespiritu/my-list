@@ -14,7 +14,7 @@ PHP
 	- [What Exception subclasses are built into PHP?](http://stackoverflow.com/questions/10838257/what-exception-subclasses-are-built-into-php)
 - Databases
 	- [PDO](http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html)
-		- [How to Design Exception Hierarchies](http://blogs.msdn.com/b/kcwalina/archive/2007/01/30/exceptionhierarchies.aspx)
+		- [PHP Database Access: Are You Doing It Correctly?](http://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338)
 
 
 JavaScript
