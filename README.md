@@ -17,6 +17,7 @@ PHP
 - Databases
 	- [PDO](http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html)
 		- [PHP Database Access: Are You Doing It Correctly?](http://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338)
+		- [Database Testing with PHPUnit](http://someguyjeremy.com/2013/01/database-testing-with-phpunit.html)
 
 
 JavaScript
